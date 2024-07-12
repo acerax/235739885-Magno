@@ -6,3 +6,6 @@ start "" "https://www.instructure.com/canvas"
 start "" "https://www.wattpad.com/"
 
 start calc.exe
+start notepad.exe
+
+exit
