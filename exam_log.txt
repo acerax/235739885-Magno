@@ -31,3 +31,12 @@
    31  mysql --version
    32  git checkout -b finalexam
    33  history > exam_log.txt
+   34  git add exam_log.txt
+   35  git commit -m "Added exam_log.txt with command history"
+   36  git push origin finalexam
+   37  cd
+   38  rm -r Linux_practice
+   39  cd 235739885-Magno
+   40  ls
+   41  git checkout -b finalexam
+   42  history > exam_log.txt
