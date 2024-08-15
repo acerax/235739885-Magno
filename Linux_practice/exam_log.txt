@@ -1,0 +1,5 @@
+    1  cd 235739885-Magno
+    2  cd Linux_practice
+    3  touch test.txt
+    4  git checkout -b finalexam
+    5  history > exam_log.txt
